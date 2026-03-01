@@ -13,10 +13,6 @@ Analyze IPL match data
 
 Compare team performances
 
-Identify top players
-
-Study toss impact on match results
-
 Create an interactive dashboard using Excel
 
 📊 Features
@@ -60,3 +56,8 @@ Toss winner and decision
 Match winner
 
 Player performance statistics
+
+##Dashboard Preview 
+<img src="Player Performance Dashboard.png" width="800"/>
+<img src="Team Performance Dashboard.png" width="800"/>
+
